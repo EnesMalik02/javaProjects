@@ -1,6 +1,6 @@
 Java döngüler ile sayının armstrong sayı olup olmadığını bulan programı yazıyoruz.
 
-#### Armstrong Sayı Nedir?
+# Armstrong Sayı Nedir?
 
 N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
 
