@@ -18,7 +18,7 @@ public class max_min {
             if (girdi > maxNum) {
                 maxNum = girdi;
             }
-            if (girdi < minNum) {
+            else if (girdi < minNum) {
                 minNum = girdi;
             }
             i++;
