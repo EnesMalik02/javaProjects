@@ -1,0 +1,1 @@
+Listedeki en büyük ve en küçük sayıyı bulur
